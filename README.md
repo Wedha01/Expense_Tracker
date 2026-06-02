@@ -21,10 +21,10 @@ A clean and modern personal expense tracker built for **Toko Amien**.
 
 🛠️ Tech Stack
 
-Laravel 11
-Tailwind CSS + Alpine.js
-MySQL
-Chart.js
+- Laravel 11
+- Tailwind CSS + Alpine.js
+- MySQL
+- Chart.js
 
 ## 🚀 How To Run
 
