@@ -2,7 +2,7 @@
 
 A clean and modern personal expense tracker built for **Toko Amien**.
 
-![Dashboard Preview](screenshots/dash.png)
+![Dashboard Preview](screenshot/dash.png)
 
 ## ✨ Features
 
