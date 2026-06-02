@@ -17,7 +17,7 @@ A clean and modern personal expense tracker built for **Toko Amien**.
 
 | Dashboard | Add Transaction | All Transactions |
 |-----------|-----------------|------------------|
-| ![Dashboard](screenshot/01-dashboard.png) | ![Add](screenshot/02-add-transaction.png) | ![All](screenshot/03-all-transactions.png) |
+| ![Dashboard](screenshot/dash.png) | ![Add](screenshot/transaction.png) | ![All](screenshot/total.png) |
 
 🛠️ Tech Stack
 
