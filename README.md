@@ -17,7 +17,14 @@ A clean and modern personal expense tracker built for **Toko Amien**.
 
 | Dashboard | Add Transaction | All Transactions |
 |-----------|-----------------|------------------|
-| ![Dashboard](screenshots/01-dashboard.png) | ![Add](screenshots/02-add-transaction.png) | ![All](screenshots/03-all-transactions.png) |
+| ![Dashboard](screenshot/01-dashboard.png) | ![Add](screenshot/02-add-transaction.png) | ![All](screenshot/03-all-transactions.png) |
+
+🛠️ Tech Stack
+
+Laravel 11
+Tailwind CSS + Alpine.js
+MySQL
+Chart.js
 
 ## 🚀 How To Run
 
@@ -30,9 +37,3 @@ php artisan migrate
 php artisan serve
 Visit: http://127.0.0.1:8000
 
-🛠️ Tech Stack
-
-Laravel 11
-Tailwind CSS + Alpine.js
-MySQL
-Chart.js
